@@ -1,6 +1,7 @@
 # Acciojob-FrontEnd2-module-test
 
-Project Overview
+Project Overview:
+
 The task is to create a beautiful gallery using either a flex or grid layout that displays 4 images in a single row. The gallery should have the following functionality:
 
 Create a gallery using either a flex or grid layout that displays 4 images in a single row. [10 marks]
@@ -12,4 +13,4 @@ Ensure that the images can only be clicked once and in a specific order (from fi
 If the user does not score more than 10 on their first attempt, they should be given one more chance to click the third and fourth images. [10 marks]
 If the user fails to score more than 10 even after their second attempt, display the message "Bad luck" and do not give them another chance. [10 marks]
 If the user can generate a coupon, display a congratulatory image. [10 marks]
-Note: No external links have been provided
+Note: No external links have been provided.
